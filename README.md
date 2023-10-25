@@ -2,7 +2,6 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python
 
-<!---
 // C++ program to display "Hello World"
 
 // Header file for input output functions
@@ -18,4 +17,3 @@ int main()
 
 	return 0;
 }
---->
