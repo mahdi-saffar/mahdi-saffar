@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Mahdi Saffar
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+# Topics
 
-int main()
-{
-	cout << "Hello World";
-	return 0;
-}
+- [x]  Linux
+- [x]  Networking
+- [x]  HTTP
+- [x]  VPN
+- [x]  Python
+- [x]  HTML + JavaScript
+- [x]  PHP + MySQL
+- [x]  Git & GitHub
+- [x]  Get into the community (Introduce yourself, YouTube, Twitter)
