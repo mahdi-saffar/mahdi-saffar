@@ -61,7 +61,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Experiences
 
-|                                               | Associated Link         |
+| Experience                                    | Associated Link         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
