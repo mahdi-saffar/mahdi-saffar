@@ -60,10 +60,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 
 ## Experiences
+
+|                                               | Associated Link         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
-| Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
+| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
